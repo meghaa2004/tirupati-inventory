@@ -1,0 +1,39 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7c826b;
+}
+
+.logo{
+    text-align: center;
+    width: 80%;
+    background-color: #c2cbb2;
+    padding: 10px 0px;
+    margin: 5px ;
+}
+.login{
+    text-align: center;
+    width: 20%;
+    background-color: #ede6c4;
+    padding: 20px 10px;
+    margin: 5px ;
+}
+.login button{
+    font-size: 25px;
+    padding: 10px;
+    border: 0px;
+    border-radius: 25%;
+    margin: 10px;
+}
+.nav ul li {
+    font-size: 20px;
+    display: inline-block;
+    width:22%;
+    margin:0px 3px ;
+}
